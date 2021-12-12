@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_create_admin">Create_admin</string>
+    <string name="title_activity_create">Create</string>
+    <string name="title_activity_many">Many</string>
+    <string name="title_activity_cost">Cost</string>
+    <string name="title_activity_conform_no">Conform_no</string>
+
+</resources>
